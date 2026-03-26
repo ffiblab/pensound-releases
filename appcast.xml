@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>PenSound</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Thu, 26 Mar 2026 11:51:53 +0900</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound-1.0.0-beta.dmg" length="3978345" type="application/octet-stream" sparkle:edSignature="6uxSK9pjtglUg//yJo6bK48o76N14ebIwQ7WHjAYohY0TmV07kGKyzdcqf8SvozfwzzC2G1lf+7DlUZ9UQBcDQ=="/>
+        </item>
+    </channel>
+</rss>
