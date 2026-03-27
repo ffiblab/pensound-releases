@@ -16,7 +16,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound-0.9.0.dmg" length="4697814" type="application/octet-stream" sparkle:edSignature="IOuyvkPF8VDE8CGUWpSbTKjuBkBMWdPrtZfSiaflxzDCFfgHZ20Egf2Evx+cYBkq5nJZ254U8vKzYLG/fvwbCg=="/>
+            <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound-0.9.0.dmg" length="4698009" type="application/octet-stream" sparkle:edSignature="PYET17rUm1twI1CCNQx/ByGdUFCLedou9vnIn6pUxOPE1Fi+z54pJdLG3+Ywcxkvr3UZRky0S+Isv67ym+S1DQ=="/>
         </item>
     </channel>
 </rss>
