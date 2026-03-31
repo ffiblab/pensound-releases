@@ -3,20 +3,12 @@
     <channel>
         <title>PenSound</title>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Thu, 26 Mar 2026 11:51:53 +0900</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound-1.0.0-beta.dmg" length="3978345" type="application/octet-stream" sparkle:edSignature="6uxSK9pjtglUg//yJo6bK48o76N14ebIwQ7WHjAYohY0TmV07kGKyzdcqf8SvozfwzzC2G1lf+7DlUZ9UQBcDQ=="/>
-        </item>
-        <item>
             <title>0.9.0</title>
             <pubDate>Thu, 26 Mar 2026 15:43:04 +0900</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound-0.9.0.dmg" length="4813715" type="application/octet-stream" sparkle:edSignature="uukxuMZe7QKCidsu3hLg1ZNAUe/JJBsrgR2zila4GgudqEfr5lYtb7mfAPScrqQQm0b6jAyX7AIaQ7som8GsCA=="/>
+            <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound-0.9.0.dmg" length="4813716" type="application/octet-stream" sparkle:edSignature="x8qpAWADK0+wJbhJ2F9SvWRarsRMefPsM+5N4gwKASLIe70R1kZ7DmzIU8LCrNdcA4s9Prlxi37F7e7NmTTtDw=="/>
         </item>
     </channel>
 </rss>
