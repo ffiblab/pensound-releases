@@ -3,6 +3,18 @@
     <channel>
         <title>PenSound</title>
         <item>
+            <title>0.9.1</title>
+            <pubDate>Sat, 04 Apr 2026 19:53:35 +0900</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.9.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://ffiblab.github.io/pensound-releases/PenSound-0.9.1.md</sparkle:releaseNotesLink>
+            <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound-0.9.1.dmg" length="5076129" type="application/octet-stream" sparkle:edSignature="NpS5vLbW6/mDRhFi0vFOVYfxyi1Woz3td4SLg7Zo+OrqtLNzLZ7M66k3XbP1WtQA51Ok2L0VO2d8ckRYWgAjCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound2-1.delta" sparkle:deltaFrom="1" length="1189650" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kYoRjGcKnLz79wMEmCIgmLhYJp/YY/zinafFgYQdXNnwHD9WWybxjq0D3UVttnf43XeptJ+L3cffX0mmgYzWBg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.9.0</title>
             <pubDate>Thu, 26 Mar 2026 15:43:04 +0900</pubDate>
             <sparkle:version>1</sparkle:version>
