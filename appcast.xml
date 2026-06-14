@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://ffiblab.github.io/pensound-releases/PenSound-1.0.0.md</sparkle:releaseNotesLink>
-            <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound-1.0.0.dmg" length="4698047" type="application/octet-stream" sparkle:edSignature="uFRh0ymyGKkOalXHqlgc2mxJvSKAmdHwOKLc/YNH5Rc7GGQyuxa9U7qQAGnlifrKhMUCGQykU7YWhmgcU98tCg=="/>
+            <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound-1.0.0.dmg" length="4697855" type="application/octet-stream" sparkle:edSignature="KZziaRzl0LJYDrhnuDrru8N5vCoDLUZP+hrPuPcPn9zwYlRfcZF+TsSsXVEDTceR0Ypfa3VYhNWU9xHoV37tBA=="/>
             <sparkle:deltas>
                 <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound12-7.delta" sparkle:deltaFrom="7" length="1046390" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="52Sg5vnXBep3E8VQ4hBEUjlswPcQrIqVpG2MUpZlbJVCgtyTLzuFftEEnRIJe3ZrsJzECTudINtrCFwtOLiuAQ=="/>
                 <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound12-6.delta" sparkle:deltaFrom="6" length="1200110" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="cyCDFdMG5l9hNQV60Zf6B6Zg6JmJM4ZA+2GEkPeum2wQ92ApUe9pc9lj6+DwU3DSwQfn4DXU25PI7Ju2js4OBQ=="/>
