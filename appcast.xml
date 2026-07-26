@@ -4,6 +4,21 @@
         <title>PenSound</title>
         <item>
             <title>1.0.0</title>
+            <pubDate>Mon, 27 Jul 2026 00:17:48 +0900</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://ffiblab.github.io/pensound-releases/PenSound-1.0.0-22.md</sparkle:releaseNotesLink>
+            <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound-1.0.0-22.dmg" length="9810062" type="application/octet-stream" sparkle:edSignature="TOVkx1e6xwtrLPS1VhDb+suyswc2ys6V7nhTj8WssEgoBxihItUOPlko9nolFK5+R5BOOx8zvqZ5yqkGskmjCA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound22-21.delta" sparkle:deltaFrom="21" length="294750" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xZwa1vyyg9yJ9Mzl/G41qF6nnMqUZhIF6+AKswx3vhkTB1auAjzh6e3ehmnFTY5ZWJx9miYEyqfXJby0hNxzCw=="/>
+                <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound22-18.delta" sparkle:deltaFrom="18" length="3508878" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AnKrJb1Wni5J10hfZQsSXtk2pDfvhkk2ZgmWfFRltObNOGUXQDTB8nm8K1SUGPNdgudUlp2fo9eWlV3KdA42Cg=="/>
+                <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound22-17.delta" sparkle:deltaFrom="17" length="3538950" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7pLjzchye9MDP3mNDxWXboHE68Ly9dOTUrfblOnjRnoIE2DQ896grI/Kz6ckLagAHAMxTm61EC/H1YAcBK8rBA=="/>
+                <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound22-16.delta" sparkle:deltaFrom="16" length="3524178" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="AEgTeYrcMnZgJKqaUu9fTKysouM3eB4n7NSbLbzdi1HeGti7FmmwS3/w83orqPS5bgW7UkVuKTIwdeoRw8MeDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Sun, 26 Jul 2026 16:48:13 +0900</pubDate>
             <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
