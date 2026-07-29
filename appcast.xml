@@ -4,6 +4,22 @@
         <title>PenSound</title>
         <item>
             <title>1.0.0</title>
+            <pubDate>Wed, 29 Jul 2026 18:59:26 +0900</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://ffiblab.github.io/pensound-releases/PenSound-1.0.0-25.md</sparkle:releaseNotesLink>
+            <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound-1.0.0-25.dmg" length="9821003" type="application/octet-stream" sparkle:edSignature="87qqc1A5Cm/ATyBouSV0YTiCWhWWXF9zNFLq0gycaQGKCSFOJxFsTsvgS6X99X1YAY5mdAlc20hjin4GYwTYBQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound25-24.delta" sparkle:deltaFrom="24" length="137958" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="RRUH80FZcqgSLwi1y+QnREL4PRgAgO7iLVV41S5K7EkCoNU1bR89hLETkx0spXra3YljXSoa6xhH52Tt/W6MCw=="/>
+                <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound25-23.delta" sparkle:deltaFrom="23" length="275874" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="m4omOgSLU/l15nHprl+p4rBilEPxDoVePXLq5DmB97/9YR5pIVZhtquDtlXPgfwFxue0t6BBu5HBXPV32tRKBQ=="/>
+                <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound25-22.delta" sparkle:deltaFrom="22" length="312062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="8EZyclMgs8qDO4iSx4k9QNAZnwMy79YOnX5RfczpwxtP0C/HSZaPVFl2xkKcNHYb9iCu9HgPvphhJk9hqiYgBg=="/>
+                <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound25-21.delta" sparkle:deltaFrom="21" length="358290" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+fuBPxz40XiC4ZmbtyKRNWVgN6BSsNj0JX2jdPmb1/ayo+9s4B7Z8887ufVISsPWZRLr0bFJktVGs8KUQiAeBg=="/>
+                <enclosure url="https://ffiblab.github.io/pensound-releases/PenSound25-18.delta" sparkle:deltaFrom="18" length="3530618" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+ut9DHTkTsbAfZBiglN5OgkHXlpQJMuTjePDTknuHcVEC8YmVtYHTpvq6bEF9gRQqTnYVF8klEABY61WxGJsBw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0.0</title>
             <pubDate>Wed, 29 Jul 2026 16:13:28 +0900</pubDate>
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
